@@ -4,3 +4,7 @@ data/raw/
 *.duckdb
 data/raw/
 *.duckdb
+data/raw/
+*.duckdb
+.DS_Store
+.Rhistory
