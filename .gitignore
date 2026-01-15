@@ -1,2 +1,4 @@
 data/raw/
 *.duckdb
+data/raw/
+*.duckdb
