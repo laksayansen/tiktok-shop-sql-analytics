@@ -125,5 +125,5 @@ tiktok-shop-sql-analytics/
 
 ## Author
 **Laksa Fadhil Yansen**  
-Aspiring Data Analyst  
-SQL • Python • R • Data Analytics
+Data Analyst | Data Science
+Python • SQL • R • Data Analytics
