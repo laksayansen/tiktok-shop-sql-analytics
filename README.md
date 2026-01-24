@@ -107,12 +107,15 @@ Potential strategies to improve retention:
 ---
 
 ## Repository Structure
+
+```text
 tiktok-shop-sql-analytics/
 │
-├── queries.sql # All SQL queries used in the analysis
-├── README.md # Project documentation
+├── queries.sql
+├── README.md
 └── data/
-    └── raw/ # (ignored) original CSV files
+    └── raw/
+```
 
 ---
 
@@ -123,7 +126,5 @@ tiktok-shop-sql-analytics/
 
 ---
 
-## Author
-**Laksa Fadhil Yansen**  
-Data Analyst | Data Science
-Python • SQL • R • Data Analytics
+**Author:** Laksa Fadhil Yansen  
+Data Analysis | Modeling | Visualization
