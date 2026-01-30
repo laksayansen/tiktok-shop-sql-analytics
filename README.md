@@ -1,5 +1,8 @@
 # TikTok Shop–Style E-commerce Retention Analysis (SQL)
 
+![SQL](https://img.shields.io/badge/database-SQL-blue.svg)
+![Status](https://img.shields.io/badge/status-completed-success.svg)
+
 ## Overview
 This project analyzes customer retention behavior in a **social-commerce / marketplace-style e-commerce platform**, inspired by **TikTok Shop–like purchasing patterns**. Using transactional order data, the analysis focuses on **cohort retention, repeat purchase behavior, and time to second purchase**, implemented entirely in **MySQL 8.0**.
 
@@ -128,3 +131,6 @@ tiktok-shop-sql-analytics/
 
 **Author:** Laksa Fadhil Yansen  
 Data Analysis | Modeling | Visualization
+- GitHub: [@laksayansen](https://github.com/laksayansen)
+- LinkedIn: [Laksa Fadhil Yansen](https://linkedin.com/in/laksafadhilyansen)
+- Email: laksafadhil.yansen@mail.utoronto.ca
